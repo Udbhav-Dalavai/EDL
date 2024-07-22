@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import keras
 from keras.datasets import mnist, cifar10, cifar100
 from keras import layers
